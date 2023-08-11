@@ -3,7 +3,6 @@ const nextConfig = {
   reactStrictMode: true,
   pageExtensions: [
     "page.tsx",
-    "page.ts",
     "api.ts",
     "api.tsx"
   ]
