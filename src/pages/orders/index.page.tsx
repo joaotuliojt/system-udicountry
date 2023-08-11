@@ -4,9 +4,9 @@ import { ListMagnifyingGlass,Plus } from '@phosphor-icons/react'
 import Header from '../../components/header'
 import ScanCode from '../../components/scancode'
 
-import { WrapperList, WrapperSearch } from './styles.page'
+import { WrapperList, WrapperSearch } from './styles'
 
-import ExemploTenisBranco from '../../assets/tenis-branco.jpg'
+import ExemploTenisBranco from '../../assgit ets/tenis-branco.jpg'
 import { Inter } from 'next/font/google'
 
 const poppins = Inter({ subsets: ['latin'] })
