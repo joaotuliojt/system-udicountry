@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import Logo from "../assets/logo-udicountry.png";
+import Logo from "../../assets/logo-udicountry.png";
 import { GoogleLogo } from "@phosphor-icons/react";
 
 export default function SignInPage() {
