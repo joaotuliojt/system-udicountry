@@ -6,7 +6,7 @@ import ScanCode from '../../components/scancode'
 
 import { WrapperList, WrapperSearch } from './styles'
 
-import ExemploTenisBranco from '../../assgit ets/tenis-branco.jpg'
+import ExemploTenisBranco from '../../assets/tenis-branco.jpg'
 import { Inter } from 'next/font/google'
 
 const poppins = Inter({ subsets: ['latin'] })
